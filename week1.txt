@@ -1,1 +1,2 @@
-Toi ten Nam
+Đây là file week1.txt
+Thuộc brand: week1 mà thôi
