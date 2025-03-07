@@ -1,2 +1,6 @@
 Đây là file week1.txt
+<<<<<<< HEAD
 Thuộc brand: week1 mà thôi
+=======
+Thuộc brach: week1 và main
+>>>>>>> main
